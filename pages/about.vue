@@ -12,7 +12,7 @@
   
   <script>
   import TeamCarouselComponent from '~/components/TeamCarouselComponent.vue';
-  import data from '~/assets/data.json';
+  import data from '~/static/data.json';
   
   export default {
     components: {

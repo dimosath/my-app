@@ -9,7 +9,7 @@
   
   <script>
   import CardComponent from '~/components/CardComponent.vue'
-  import data from '~/assets/data.json'
+  import data from '~/static/data.json'
   
   export default {
     components: {
